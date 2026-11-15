@@ -1,0 +1,513 @@
+<Table>
+<Row><Cell>ui_arsi_tip_category_headings</Cell><Cell>Category Headings</Cell><Cell>Category Headings</Cell></Row>
+<!--–––––––––––––––––– INVENTORY CATEGORIES ––––––––––––––––––-->
+<!-- Weapons -->
+<Row><Cell>ui_arsi_weapons_shortsword</Cell><Cell>Shortsword</Cell><Cell>Shortsword</Cell></Row>
+<Row><Cell>ui_arsi_weapons_huntingsword</Cell><Cell>Hunting sword</Cell><Cell>Hunting sword</Cell></Row>
+<Row><Cell>ui_arsi_weapons_bastardsword</Cell><Cell>Bastard sword</Cell><Cell>Bastard sword</Cell></Row>
+<Row><Cell>ui_arsi_weapons_longsword</Cell><Cell>Longsword</Cell><Cell>Longsword</Cell></Row>
+<Row><Cell>ui_arsi_weapons_saber</Cell><Cell>Sabre</Cell><Cell>Sabre</Cell></Row>
+<Row><Cell>ui_arsi_weapons_axe</Cell><Cell>Axe</Cell><Cell>Axe</Cell></Row>
+<Row><Cell>ui_arsi_weapons_club</Cell><Cell>Club</Cell><Cell>Club</Cell></Row>
+<Row><Cell>ui_arsi_weapons_mace</Cell><Cell>Mace</Cell><Cell>Mace</Cell></Row>
+<Row><Cell>ui_arsi_weapons_warhammer</Cell><Cell>Warhammer</Cell><Cell>Warhammer</Cell></Row>
+<Row><Cell>ui_arsi_weapons_polearm</Cell><Cell>Polearm</Cell><Cell>Polearm</Cell></Row>
+<Row><Cell>ui_arsi_weapons_shield</Cell><Cell>Shield</Cell><Cell>Shield</Cell></Row>
+<Row><Cell>ui_arsi_weapons_dagger</Cell><Cell>Dagger</Cell><Cell>Dagger</Cell></Row>
+<Row><Cell>ui_arsi_weapons_torch</Cell><Cell>Torch</Cell><Cell>Torch</Cell></Row>
+<Row><Cell>ui_arsi_weapons_bowLight</Cell><Cell>Light bow</Cell><Cell>Light bow</Cell></Row>
+<Row><Cell>ui_arsi_weapons_bowVillager</Cell><Cell>Villager Bow</Cell><Cell>Villager Bow</Cell></Row>
+<Row><Cell>ui_arsi_weapons_bowCuman</Cell><Cell>Cuman bow</Cell><Cell>Cuman bow</Cell></Row>
+<Row><Cell>ui_arsi_weapons_bowHunting</Cell><Cell>Hunting bow</Cell><Cell>Hunting bow</Cell></Row>
+<Row><Cell>ui_arsi_weapons_bowLong</Cell><Cell>Longbow</Cell><Cell>Longbow</Cell></Row>
+<!-- Armor -->
+<Row><Cell>ui_arsi_armor_feet</Cell><Cell>Boots</Cell><Cell>Boots</Cell></Row>
+<Row><Cell>ui_arsi_armor_legs1</Cell><Cell>Legs I</Cell><Cell>Legs I</Cell></Row>
+<Row><Cell>ui_arsi_armor_legs2</Cell><Cell>Legs II</Cell><Cell>Legs II</Cell></Row>
+<Row><Cell>ui_arsi_armor_legs3</Cell><Cell>Legs III</Cell><Cell>Legs III</Cell></Row>
+<Row><Cell>ui_arsi_armor_body1</Cell><Cell>Body I</Cell><Cell>Body I</Cell></Row>
+<Row><Cell>ui_arsi_armor_body2</Cell><Cell>Body II</Cell><Cell>Body II</Cell></Row>
+<Row><Cell>ui_arsi_armor_body3</Cell><Cell>Body III</Cell><Cell>Body III</Cell></Row>
+<Row><Cell>ui_arsi_armor_body4</Cell><Cell>Body IV</Cell><Cell>Body IV</Cell></Row>
+<Row><Cell>ui_arsi_armor_hands</Cell><Cell>Hands</Cell><Cell>Hands</Cell></Row>
+<Row><Cell>ui_arsi_armor_arms</Cell><Cell>Arms</Cell><Cell>Arms</Cell></Row>
+<Row><Cell>ui_arsi_armor_head1</Cell><Cell>Head I</Cell><Cell>Head I</Cell></Row>
+<Row><Cell>ui_arsi_armor_head2</Cell><Cell>Head II</Cell><Cell>Head II</Cell></Row>
+<Row><Cell>ui_arsi_armor_head3</Cell><Cell>Head III</Cell><Cell>Head III</Cell></Row>
+<Row><Cell>ui_arsi_armor_horseCover</Cell><Cell>Caparison</Cell><Cell>Caparison</Cell></Row>
+<Row><Cell>ui_arsi_armor_horseBridle</Cell><Cell>Bridle</Cell><Cell>Bridle</Cell></Row>
+<Row><Cell>ui_arsi_armor_horseBody</Cell><Cell>Body</Cell><Cell>Body</Cell></Row>
+<Row><Cell>ui_arsi_armor_horseSaddle</Cell><Cell>Saddle</Cell><Cell>Saddle</Cell></Row>
+<Row><Cell>ui_arsi_armor_horseHead</Cell><Cell>Head</Cell><Cell>Head</Cell></Row>
+<Row><Cell>ui_arsi_armor_ring</Cell><Cell>Ring</Cell><Cell>Ring</Cell></Row>
+<Row><Cell>ui_arsi_armor_necklace</Cell><Cell>Necklace</Cell><Cell>Necklace</Cell></Row>
+<Row><Cell>ui_arsi_armor_spurs</Cell><Cell>Spurs</Cell><Cell>Spurs</Cell></Row>
+<Row><Cell>ui_arsi_armor_horseShoe</Cell><Cell>Horseshoe</Cell><Cell>Horseshoe</Cell></Row>
+<Row><Cell>ui_arsi_armor_female</Cell><Cell>Women's garments</Cell><Cell>Women's garments</Cell></Row>
+<!-- Food -->
+<Row><Cell>ui_arsi_food_cooked</Cell><Cell>Cooked</Cell><Cell>Cooked</Cell></Row>
+<Row><Cell>ui_arsi_food_dried</Cell><Cell>Dried</Cell><Cell>Dried</Cell></Row>
+<Row><Cell>ui_arsi_food_smoked</Cell><Cell>Smoked</Cell><Cell>Smoked</Cell></Row>
+<Row><Cell>ui_arsi_food_baked</Cell><Cell>Pastries</Cell><Cell>Pastries</Cell></Row>
+<Row><Cell>ui_arsi_food_soup</Cell><Cell>Soup</Cell><Cell>Soup</Cell></Row>
+<Row><Cell>ui_arsi_food_meal</Cell><Cell>Meal</Cell><Cell>Meal</Cell></Row>
+<Row><Cell>ui_arsi_food_fruit</Cell><Cell>Fruit &amp; Vegetables</Cell><Cell>Fruit &amp; Vegetables</Cell></Row>
+<Row><Cell>ui_arsi_food_mushroom</Cell><Cell>Mushrooms</Cell><Cell>Mushrooms</Cell></Row>
+<Row><Cell>ui_arsi_food_processed</Cell><Cell>Processed</Cell><Cell>Processed</Cell></Row>
+<Row><Cell>ui_arsi_food_meat</Cell><Cell>Raw Meat</Cell><Cell>Raw Meat</Cell></Row>
+<Row><Cell>ui_arsi_food_fish</Cell><Cell>Fish</Cell><Cell>Fish</Cell></Row>
+<Row><Cell>ui_arsi_food_drink</Cell><Cell>Beverages</Cell><Cell>Beverages</Cell></Row>
+<Row><Cell>ui_arsi_food_alcohol</Cell><Cell>Alcoholic Beverages</Cell><Cell>Alcoholic Beverages</Cell></Row>
+<Row><Cell>ui_arsi_food_potions</Cell><Cell>Potions</Cell><Cell>Potions</Cell></Row>
+<Row><Cell>ui_arsi_food_other</Cell><Cell>Other</Cell><Cell>Other</Cell></Row>
+<!-- Misc -->
+<Row><Cell>ui_arsi_misc_ointments</Cell><Cell>Mending &amp; Tending</Cell><Cell>Mending &amp; Tending</Cell></Row>
+<Row><Cell>ui_arsi_misc_alchemy</Cell><Cell>Alchemy Materials</Cell><Cell>Alchemy Materials</Cell></Row>
+<Row><Cell>ui_arsi_misc_herbs</Cell><Cell>Herbs</Cell><Cell>Herbs</Cell></Row>
+<Row><Cell>ui_arsi_misc_documents</Cell><Cell>Documents</Cell><Cell>Documents</Cell></Row>
+<Row><Cell>ui_arsi_misc_skillBook</Cell><Cell>Skill books</Cell><Cell>Skill books</Cell></Row>
+<Row><Cell>ui_arsi_misc_recipe</Cell><Cell>Recipes</Cell><Cell>Recipes</Cell></Row>
+<Row><Cell>ui_arsi_misc_loreBook</Cell><Cell>Lore books</Cell><Cell>Lore books</Cell></Row>
+<Row><Cell>ui_arsi_misc_map</Cell><Cell>Maps</Cell><Cell>Maps</Cell></Row>
+<Row><Cell>ui_arsi_misc_dice</Cell><Cell>Dice</Cell><Cell>Dice</Cell></Row>
+<Row><Cell>ui_arsi_misc_keys</Cell><Cell>Keys</Cell><Cell>Keys</Cell></Row>
+<Row><Cell>ui_arsi_misc_tool</Cell><Cell>Tools</Cell><Cell>Tools</Cell></Row>
+<Row><Cell>ui_arsi_misc_skin</Cell><Cell>Skins &amp; Hides</Cell><Cell>Skins &amp; Hides</Cell></Row>
+<Row><Cell>ui_arsi_misc_feather</Cell><Cell>Feathers</Cell><Cell>Feathers</Cell></Row>
+<Row><Cell>ui_arsi_misc_cloth</Cell><Cell>Cloth</Cell><Cell>Cloth</Cell></Row>
+<Row><Cell>ui_arsi_misc_valuable</Cell><Cell>Valuables</Cell><Cell>Valuables</Cell></Row>
+<Row><Cell>ui_arsi_misc_other</Cell><Cell>Other</Cell><Cell>Other</Cell></Row>
+
+
+<!--–––––––––––––––––– UNIQUE ITEMS BY YASM ––––––––––––––––––-->
+<!-- Some items at the bottom need to be translated -->
+<Row><Cell>bavorsky_kabatec_barveny_X</Cell><Cell>Bavarian dyed gambeson</Cell><Cell>Bawarska barwiona przeszywanica</Cell></Row>
+<Row><Cell>kutnohorska_prosivanice_pul_X</Cell><Cell>Kuttenberg split gambeson</Cell><Cell>Kuttenberska dzielona przeszywanica</Cell></Row>
+<Row><Cell>prosivana_vesta_pulena_X</Cell><Cell>Quilted vest</Cell><Cell>Przeszywany bezrękawnik</Cell></Row>
+<Row><Cell>sasky_gambeson_barveny_X</Cell><Cell>Saxon dyed gambeson</Cell><Cell>Saksońska barwiona przeszywanica</Cell></Row>
+<Row><Cell>sasky_gambeson_barveny_XX</Cell><Cell>Saxon dyed gambeson</Cell><Cell>Saksońska barwiona przeszywanica</Cell></Row>
+<Row><Cell>sasky_gambeson_cerneny_X</Cell><Cell>Saxon dark gambeson</Cell><Cell>Ciemna saksońska przeszywanica</Cell></Row>
+<Row><Cell>slechticka_prosivanice_X</Cell><Cell>Decorated arming doublet</Cell><Cell>Dekoracyjny pourpoint</Cell></Row>
+<Row><Cell>slechticka_prosivanice_XX</Cell><Cell>Decorated arming doublet</Cell><Cell>Dekoracyjny pourpoint</Cell></Row>
+<Row><Cell>slechticka_prosivanice_XXX</Cell><Cell>Decorated arming doublet</Cell><Cell>Dekoracyjny pourpoint</Cell></Row>
+<Row><Cell>slechticka_prosivanice_XXXX</Cell><Cell>Decorated arming doublet</Cell><Cell>Dekoracyjny pourpoint</Cell></Row>
+<Row><Cell>slechticka_prosivanice_XXXXX</Cell><Cell>Decorated arming doublet</Cell><Cell>Dekoracyjny pourpoint</Cell></Row>
+<Row><Cell>tezka_prosivanice_ctvrce_X</Cell><Cell>Heavy quartered gambeson</Cell><Cell>Gęsto kratowana przeszywanica</Cell></Row>
+<Row><Cell>ui_nm_a_camp_proof_bandit_X</Cell><Cell>Bandit leader's spurs</Cell><Cell>Ostrogi przywódcy zbójników</Cell></Row>
+<Row><Cell>ui_nm_a_camp_proof_bandit_XX</Cell><Cell>Bandit leader's spurs</Cell><Cell>Ostrogi przywódcy zbójników</Cell></Row>
+<Row><Cell>ui_nm_a_camp_proof_bandit_XXX</Cell><Cell>Bandit leader's spurs</Cell><Cell>Ostrogi przywódcy zbójników</Cell></Row>
+<Row><Cell>ui_nm_a_camp_proof_bandit_XXXX</Cell><Cell>Bandit leader's spurs</Cell><Cell>Ostrogi przywódcy zbójników</Cell></Row>
+<Row><Cell>ui_nm_a_camp_proof_bandit_XXXXX</Cell><Cell>Bandit leader's spurs</Cell><Cell>Ostrogi przywódcy zbójników</Cell></Row>
+<Row><Cell>ui_nm_a_camp_proof_bandit_XXXXXX</Cell><Cell>Bandit leader's spurs</Cell><Cell>Ostrogi przywódcy zbójników</Cell></Row>
+<Row><Cell>ui_nm_a_camp_proof_cuman_X</Cell><Cell>Cuman leader's mask</Cell><Cell>Maska kumańskiego dowódcy</Cell></Row>
+<Row><Cell>ui_nm_a_camp_proof_cuman_XX</Cell><Cell>Cuman leader's mask</Cell><Cell>Maska kumańskiego dowódcy</Cell></Row>
+<Row><Cell>ui_nm_a_camp_proof_cuman_XXX</Cell><Cell>Cuman leader's mask</Cell><Cell>Maska kumańskiego dowódcy</Cell></Row>
+<Row><Cell>ui_nm_a_camp_proof_cuman_XXXX</Cell><Cell>Cuman leader's mask</Cell><Cell>Maska kumańskiego dowódcy</Cell></Row>
+<Row><Cell>ui_nm_arrow_testing_X</Cell><Cell>Long-distance arrow</Cell><Cell>Lepsza dalekosiężna strzała </Cell></Row>
+<Row><Cell>ui_nm_bavorsky_haube_X</Cell><Cell>Bavarian decorated hauberk</Cell><Cell>Zdobiona bawarska kolczuga</Cell></Row>
+<Row><Cell>ui_nm_brig_noh_X</Cell><Cell>Brigandine short chausses</Cell><Cell>Krótkie bigwanty zbrojnikowe</Cell></Row>
+<Row><Cell>ui_nm_brig_noh_XX</Cell><Cell>Brigandine short chausses</Cell><Cell>Krótkie bigwanty zbrojnikowe</Cell></Row>
+<Row><Cell>ui_nm_brig_noh_XXX</Cell><Cell>Brigandine short chausses</Cell><Cell>Krótkie bigwanty zbrojnikowe</Cell></Row>
+<Row><Cell>ui_nm_brig_noh_XXXX</Cell><Cell>Brigandine short chausses</Cell><Cell>Krótkie bigwanty zbrojnikowe</Cell></Row>
+<Row><Cell>ui_nm_brig_noh_XXXXX</Cell><Cell>Brigandine short chausses</Cell><Cell>Krótkie bigwanty zbrojnikowe</Cell></Row>
+<Row><Cell>ui_nm_brig_ramena_X</Cell><Cell>Brigandine pauldron</Cell><Cell>Zbrojnikowe naręczaki</Cell></Row>
+<Row><Cell>ui_nm_burg_br_col_X</Cell><Cell>Burgundy dyed brigandine</Cell><Cell>Burgundzka barwiona brygantyna</Cell></Row>
+<Row><Cell>ui_nm_burg_br_col_XX</Cell><Cell>Burgundy dyed brigandine</Cell><Cell>Burgundzka barwiona brygantyna</Cell></Row>
+<Row><Cell>ui_nm_burg_br_col_XXX</Cell><Cell>Burgundy dyed brigandine</Cell><Cell>Burgundzka barwiona brygantyna</Cell></Row>
+<Row><Cell>ui_nm_burg_br_dark_X</Cell><Cell>Burgundy dark brigandine</Cell><Cell>Burgundzka ciemna przeszywanica</Cell></Row>
+<Row><Cell>ui_nm_burg_noh_X</Cell><Cell>Burgundy brigandine chausses</Cell><Cell>Burgundzkie zbrojnikowe bigwanty</Cell></Row>
+<Row><Cell>ui_nm_burg_noh_XX</Cell><Cell>Burgundy brigandine chausses</Cell><Cell>Burgundzkie zbrojnikowe bigwanty</Cell></Row>
+<Row><Cell>ui_nm_burg_zdob_noh_X</Cell><Cell>Burgundy decorated chausses</Cell><Cell>Dekoracyjne burgundzkie bigwanty</Cell></Row>
+<Row><Cell>ui_nm_ca_hood_002_X</Cell><Cell>Mail coif</Cell><Cell>Kaptur kolczy</Cell></Row>
+<Row><Cell>ui_nm_cap_X</Cell><Cell>Coif</Cell><Cell>Czepiec</Cell></Row>
+<Row><Cell>ui_nm_cap_XX</Cell><Cell>Coif</Cell><Cell>Czepiec</Cell></Row>
+<Row><Cell>ui_nm_cap_XXX</Cell><Cell>Coif</Cell><Cell>Czepiec</Cell></Row>
+<Row><Cell>ui_nm_charl_horndust_X</Cell><Cell>Powdered unicorn horn</Cell><Cell>Sproszkowany róg jednorożca</Cell></Row>
+<Row><Cell>ui_nm_club_X</Cell><Cell>Bludgeon</Cell><Cell>Pałka</Cell></Row>
+<Row><Cell>ui_nm_cotte_002_X</Cell><Cell>Beggar's tunic</Cell><Cell>Tunika żebraka</Cell></Row>
+<Row><Cell>ui_nm_cotte_003_X</Cell><Cell>Burgher's dress</Cell><Cell>Suknia mieszczki</Cell></Row>
+<Row><Cell>ui_nm_cotte_003_XX</Cell><Cell>Burgher's dress</Cell><Cell>Suknia mieszczki</Cell></Row>
+<Row><Cell>ui_nm_cotte_003_XXX</Cell><Cell>Burgher's dress</Cell><Cell>Suknia mieszczki</Cell></Row>
+<Row><Cell>ui_nm_cotte_003_XXXX</Cell><Cell>Burgher's dress</Cell><Cell>Suknia mieszczki</Cell></Row>
+<Row><Cell>ui_nm_cotte_003_XXXXX</Cell><Cell>Burgher's dress</Cell><Cell>Suknia mieszczki</Cell></Row>
+<Row><Cell>ui_nm_cotte_003_XXXXXX</Cell><Cell>Burgher's dress</Cell><Cell>Suknia mieszczki</Cell></Row>
+<Row><Cell>ui_nm_cotte_004_c1_X</Cell><Cell>Common dress</Cell><Cell>Zwykła suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_004_c1_XX</Cell><Cell>Common dress</Cell><Cell>Zwykła suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_004_c1_apron_X</Cell><Cell>Dress and apron</Cell><Cell>Suknia z fartuchem</Cell></Row>
+<Row><Cell>ui_nm_cotte_004_c1_apron_XX</Cell><Cell>Dress and apron</Cell><Cell>Suknia z fartuchem</Cell></Row>
+<Row><Cell>ui_nm_cotte_005_X</Cell><Cell>Plain dress</Cell><Cell>Prosta suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_005_XX</Cell><Cell>Plain dress</Cell><Cell>Prosta suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_005_XXX</Cell><Cell>Plain dress</Cell><Cell>Prosta suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_005_XXXX</Cell><Cell>Plain dress</Cell><Cell>Prosta suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_005_XXXXX</Cell><Cell>Plain dress</Cell><Cell>Prosta suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_005_XXXXXX</Cell><Cell>Plain dress</Cell><Cell>Prosta suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_005_XXXXXXX</Cell><Cell>Plain dress</Cell><Cell>Prosta suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_005_XXXXXXXX</Cell><Cell>Plain dress</Cell><Cell>Prosta suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_005_XXXXXXXXX</Cell><Cell>Plain dress</Cell><Cell>Prosta suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_005_XXXXXXXXXX</Cell><Cell>Plain dress</Cell><Cell>Prosta suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_005_XXXXXXXXXXX</Cell><Cell>Plain dress</Cell><Cell>Prosta suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_006_X</Cell><Cell>Everyday dress</Cell><Cell>Codzienna suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_006_XX</Cell><Cell>Everyday dress</Cell><Cell>Codzienna suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_006_XXX</Cell><Cell>Everyday dress</Cell><Cell>Codzienna suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_006_XXXX</Cell><Cell>Everyday dress</Cell><Cell>Codzienna suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_006_XXXXX</Cell><Cell>Everyday dress</Cell><Cell>Codzienna suknia</Cell></Row>
+<Row><Cell>ui_nm_cotte_apron_001_X</Cell><Cell>Servant's dress</Cell><Cell>Suknia służki</Cell></Row>
+<Row><Cell>ui_nm_cuman_boots_X</Cell><Cell>Cuman riding boots</Cell><Cell>Kumańskie kozaki konne</Cell></Row>
+<Row><Cell>ui_nm_cuman_boots_XX</Cell><Cell>Cuman riding boots</Cell><Cell>Kumańskie kozaki konne</Cell></Row>
+<Row><Cell>ui_nm_cuman_caftan_X</Cell><Cell>Cuman caftan</Cell><Cell>Kumański kaftan</Cell></Row>
+<Row><Cell>ui_nm_cuman_caftan_XX</Cell><Cell>Cuman caftan</Cell><Cell>Kumański kaftan</Cell></Row>
+<Row><Cell>ui_nm_cuman_caftan_XXX</Cell><Cell>Cuman caftan</Cell><Cell>Kumański kaftan</Cell></Row>
+<Row><Cell>ui_nm_cuman_caftan_002_X</Cell><Cell>Long cuman caftan</Cell><Cell>Długi kumański kaftan</Cell></Row>
+<Row><Cell>ui_nm_cuman_caftan_002_XX</Cell><Cell>Long cuman caftan</Cell><Cell>Długi kumański kaftan</Cell></Row>
+<Row><Cell>ui_nm_cuman_caftan_002_XXX</Cell><Cell>Long cuman caftan</Cell><Cell>Długi kumański kaftan</Cell></Row>
+<Row><Cell>ui_nm_cuman_ear_X</Cell><Cell>Cuman ear</Cell><Cell>Ucho Kumana</Cell></Row>
+<Row><Cell>ui_nm_cuman_jacket_001_X</Cell><Cell>Cuman cotehardie</Cell><Cell>Kumański kaftan</Cell></Row>
+<Row><Cell>ui_nm_cuman_jacket_001_XX</Cell><Cell>Cuman cotehardie</Cell><Cell>Kumański kaftan</Cell></Row>
+<Row><Cell>ui_nm_drahomiras_ring_X</Cell><Cell>Drahomira's ring</Cell><Cell>Pierścień Dargomiry</Cell></Row>
+<Row><Cell>ui_nm_hagen_helmet_X</Cell><Cell>House of Zoul helmet</Cell><Cell>Hełm rodu Zul</Cell></Row>
+<Row><Cell>ui_nm_hat_006_colorVar_A_X</Cell><Cell>Brown felt hat</Cell><Cell>Brązowy filcowy kapelusz</Cell></Row>
+<Row><Cell>ui_nm_hauberk_X</Cell><Cell>Hauberk</Cell><Cell>Kolczuga</Cell></Row>
+<Row><Cell>ui_nm_hauberk_XX</Cell><Cell>Hauberk</Cell><Cell>Kolczuga</Cell></Row>
+<Row><Cell>ui_nm_hauberk_XXX</Cell><Cell>Hauberk</Cell><Cell>Kolczuga</Cell></Row>
+<Row><Cell>ui_nm_head_scarf_X</Cell><Cell>Head scarf</Cell><Cell>Chusta</Cell></Row>
+<Row><Cell>ui_nm_hood_black_X</Cell><Cell>Black hood</Cell><Cell>Czarny kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_black_white_X</Cell><Cell>Black and white hood</Cell><Cell>Czarno-biały kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_black_yellow_X</Cell><Cell>Black and yellow hood</Cell><Cell>Czarno-żółty kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_black_yellow_XX</Cell><Cell>Black and yellow hood</Cell><Cell>Czarno-żółty kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_blue_green_X</Cell><Cell>Blue and green hood</Cell><Cell>Niebiesko-zielony kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_brown_X</Cell><Cell>Brown hood</Cell><Cell>Brązowy kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_green_X</Cell><Cell>Green hood</Cell><Cell>Zielony kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_natural_X</Cell><Cell>Linen hood</Cell><Cell>Lniany kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_red_X</Cell><Cell>Red hood</Cell><Cell>Czerwony kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_red_XX</Cell><Cell>Red hood</Cell><Cell>Czerwony kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_red_XXX</Cell><Cell>Red hood</Cell><Cell>Czerwony kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_red_white_X</Cell><Cell>Red and white hood</Cell><Cell>Czerwono-biały kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_red_white_XX</Cell><Cell>Red and white hood</Cell><Cell>Czerwono-biały kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_red_white_XXX</Cell><Cell>Red and white hood</Cell><Cell>Czerwono-biały kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_red_white_XXXX</Cell><Cell>Red and white hood</Cell><Cell>Czerwono-biały kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_red_yellow_X</Cell><Cell>Red and yellow hood</Cell><Cell>Czerwono-żółty kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_red_yellow_XX</Cell><Cell>Red and yellow hood</Cell><Cell>Czerwono-żółty kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_red_yellow_XXX</Cell><Cell>Red and yellow hood</Cell><Cell>Czerwono-żółty kaptur</Cell></Row>
+<Row><Cell>ui_nm_hood_yellow_X</Cell><Cell>Yellow hood</Cell><Cell>Żółty kaptur</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_002</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_003</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_004</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_005</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_006</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_007</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_008</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_009</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_010</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_011</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_012</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_013</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_014</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_015</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_016</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_017</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_018</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_019</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_020</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_021</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_022</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_horse_caparison_023</Cell><Cell>Caparison</Cell><Cell>Czaprak</Cell></Row>
+<Row><Cell>ui_nm_hunting_sword_7_X</Cell><Cell>Master hunter's sword</Cell><Cell>Miecz Mistrza Łowczego</Cell></Row>
+<Row><Cell>ui_nm_jacket_X</Cell><Cell>Dagged cotehardie</Cell><Cell>Kaftan z wycinanką</Cell></Row>
+<Row><Cell>ui_nm_jacket_XX</Cell><Cell>Dagged cotehardie</Cell><Cell>Kaftan z wycinanką</Cell></Row>
+<Row><Cell>ui_nm_jed_plat_noh_X</Cell><Cell>Common plate chausses</Cell><Cell>Zwykłe bigwanty</Cell></Row>
+<Row><Cell>ui_nm_jupon_009_X</Cell><Cell>Blue aketon</Cell><Cell>Niebieski jupon</Cell></Row>
+<Row><Cell>ui_nm_kozena_vesta_X</Cell><Cell>Leather jerkin</Cell><Cell>Skórzana kamizelka</Cell></Row>
+<Row><Cell>ui_nm_kozena_vesta_XX</Cell><Cell>Leather jerkin</Cell><Cell>Skórzana kamizelka</Cell></Row>
+<Row><Cell>ui_nm_kozena_vesta_XXX</Cell><Cell>Leather jerkin</Cell><Cell>Skórzana kamizelka</Cell></Row>
+<Row><Cell>ui_nm_krouzkova_kosi_X</Cell><Cell>Chainmail</Cell><Cell>Kolczuga</Cell></Row>
+<Row><Cell>ui_nm_lehka_brig_X</Cell><Cell>Light brigandine</Cell><Cell>Lekka brygantyna</Cell></Row>
+<Row><Cell>ui_nm_lehka_brig_XX</Cell><Cell>Light brigandine</Cell><Cell>Lekka brygantyna</Cell></Row>
+<Row><Cell>ui_nm_lehka_brig_short_X</Cell><Cell>Light short brigandine</Cell><Cell>Lekka krótka brygantyna</Cell></Row>
+<Row><Cell>ui_nm_lehka_lamel_X</Cell><Cell>Light lamellar armour</Cell><Cell>Lekka lamelkowa zbroja</Cell></Row>
+<Row><Cell>ui_nm_lentil_soup_X</Cell><Cell>Lentil soup</Cell><Cell>Zupa z soczewicy</Cell></Row>
+<Row><Cell>ui_nm_mil_brig_col_X</Cell><Cell>Milanese dyed brigandine</Cell><Cell>Barwiona mediolańska, brygantyna</Cell></Row>
+<Row><Cell>ui_nm_mil_brig_col_XX</Cell><Cell>Milanese dyed brigandine</Cell><Cell>Barwiona mediolańska, brygantyna</Cell></Row>
+<Row><Cell>ui_nm_mil_brig_col_XXX</Cell><Cell>Milanese dyed brigandine</Cell><Cell>Barwiona mediolańska, brygantyna</Cell></Row>
+<Row><Cell>ui_nm_monk_coat_X</Cell><Cell>Monk's habit</Cell><Cell>Habit mnicha</Cell></Row>
+<Row><Cell>ui_nm_monk_coat_XX</Cell><Cell>Monk's habit</Cell><Cell>Habit mnicha</Cell></Row>
+<Row><Cell>ui_nm_monk_coat_XXX</Cell><Cell>Monk's habit</Cell><Cell>Habit mnicha</Cell></Row>
+<Row><Cell>ui_nm_monk_coat_XXXX</Cell><Cell>Monk's habit</Cell><Cell>Habit mnicha</Cell></Row>
+<Row><Cell>ui_nm_monk_coat_XXXXX</Cell><Cell>Monk's habit</Cell><Cell>Habit mnicha</Cell></Row>
+<Row><Cell>ui_nm_monk_coat_XXXXXX</Cell><Cell>Monk's habit</Cell><Cell>Habit mnicha</Cell></Row>
+<Row><Cell>ui_nm_monk_coat_XXXXXXX</Cell><Cell>Monk's habit</Cell><Cell>Habit mnicha</Cell></Row>
+<Row><Cell>ui_nm_monk_coat_XXXXXXXX</Cell><Cell>Monk's habit</Cell><Cell>Habit mnicha</Cell></Row>
+<Row><Cell>ui_nm_monk_coat_XXXXXXXXX</Cell><Cell>Monk's habit</Cell><Cell>Habit mnicha</Cell></Row>
+<Row><Cell>ui_nm_monk_coat_XXXXXXXXXX</Cell><Cell>Monk's habit</Cell><Cell>Habit mnicha</Cell></Row>
+<Row><Cell>ui_nm_nem_slap_X</Cell><Cell>German bascinet</Cell><Cell>Niemiecki basinet</Cell></Row>
+<Row><Cell>ui_nm_nem_slap_XX</Cell><Cell>German bascinet</Cell><Cell>Niemiecki basinet</Cell></Row>
+<Row><Cell>ui_nm_obycejny_haube_X</Cell><Cell>Common short hauberk</Cell><Cell>Zwykła krótka kolczuga</Cell></Row>
+<Row><Cell>ui_nm_panske_ruka</Cell><Cell>Nobleman's gauntlets</Cell><Cell>Rękawice dla szlachty</Cell></Row>
+<Row><Cell>ui_nm_panske_ruka_X</Cell><Cell>Nobleman's gauntlets</Cell><Cell>Rękawice dla szlachty</Cell></Row>
+<Row><Cell>ui_nm_pants_001_X</Cell><Cell>Red hose</Cell><Cell>Czerwone nogawice</Cell></Row>
+<Row><Cell>ui_nm_pants_001_XX</Cell><Cell>Red hose</Cell><Cell>Czerwone nogawice</Cell></Row>
+<Row><Cell>ui_nm_pants_001_XXX</Cell><Cell>Red hose</Cell><Cell>Czerwone nogawice</Cell></Row>
+<Row><Cell>ui_nm_pants_001_XXXX</Cell><Cell>Red hose</Cell><Cell>Czerwone nogawice</Cell></Row>
+<Row><Cell>ui_nm_pants_001_dirty_yellow_X</Cell><Cell>Yellow hose</Cell><Cell>Żółte nogawice</Cell></Row>
+<Row><Cell>ui_nm_pants_001_miparty_03_X</Cell><Cell>Red-white miparti hose</Cell><Cell>Czerwono-białe miparti nogawice</Cell></Row>
+<Row><Cell>ui_nm_pants_006_color_var_E_X</Cell><Cell>Red nobleman's hose</Cell><Cell>Czerwone nogawice dla możnych</Cell></Row>
+<Row><Cell>ui_nm_pants_007_X</Cell><Cell>Patched hose</Cell><Cell>Połatane nogawice</Cell></Row>
+<Row><Cell>ui_nm_pickpocket_vagabund_seal_X</Cell><Cell>Guild signet</Cell><Cell>Sygnet cechowy</Cell></Row>
+<Row><Cell>ui_nm_pla_kab_col_X</Cell><Cell>Plated jack dyed</Cell><Cell>Barwiona brygantyna</Cell></Row>
+<Row><Cell>ui_nm_podbi_ramena_X</Cell><Cell>Riveted pauldrons</Cell><Cell>Nitowane naręczaki</Cell></Row>
+<Row><Cell>ui_nm_podbij_noh_X</Cell><Cell>Riveted chausses</Cell><Cell>Nitowane bigwanty</Cell></Row>
+<Row><Cell>ui_nm_podbij_zdob_noh_X</Cell><Cell>Riveted decorated chausses</Cell><Cell>Nitowane dekorowane bigwanty</Cell></Row>
+<Row><Cell>ui_nm_podbij_zdob_noh_XX</Cell><Cell>Riveted decorated chausses</Cell><Cell>Nitowane dekorowane bigwanty</Cell></Row>
+<Row><Cell>ui_nm_podbij_zdob_noh_XXX</Cell><Cell>Riveted decorated chausses</Cell><Cell>Nitowane dekorowane bigwanty</Cell></Row>
+<Row><Cell>ui_nm_podbij_zdob_noh_XXXX</Cell><Cell>Riveted decorated chausses</Cell><Cell>Nitowane dekorowane bigwanty</Cell></Row>
+<Row><Cell>ui_nm_polske_sklad_noh_X</Cell><Cell>Polish composite chausses</Cell><Cell>Polskie bigwanty</Cell></Row>
+<Row><Cell>ui_nm_potion_bane_X</Cell><Cell>Bane potion</Cell><Cell>Eliksir Zguby</Cell></Row>
+<Row><Cell>ui_nm_potion_mrchojedy_X</Cell><Cell>Aid for Merhojed</Cell><Cell>Remedium dla Merchojedów</Cell></Row>
+<Row><Cell>ui_nm_pros_coif_X</Cell><Cell>Padded coif</Cell><Cell>Pikowany czepiec</Cell></Row>
+<Row><Cell>ui_nm_pros_kukla_X</Cell><Cell>Padded coif</Cell><Cell>Pikowany czepiec</Cell></Row>
+<Row><Cell>ui_nm_pros_kukla_XX</Cell><Cell>Padded coif</Cell><Cell>Pikowany czepiec</Cell></Row>
+<Row><Cell>ui_nm_pros_nohy_X</Cell><Cell>Padded chausses</Cell><Cell>Pikowane nogi</Cell></Row>
+<Row><Cell>ui_nm_qa_jacket_001_X</Cell><Cell>Gambeson</Cell><Cell>Przeszywanica</Cell></Row>
+<Row><Cell>ui_nm_qa_jacket_001_XX</Cell><Cell>Gambeson</Cell><Cell>Przeszywanica</Cell></Row>
+<Row><Cell>ui_nm_qa_jacket_001_XXX</Cell><Cell>Gambeson</Cell><Cell>Przeszywanica</Cell></Row>
+<Row><Cell>ui_nm_qa_jacket_001_XXXX</Cell><Cell>Gambeson</Cell><Cell>Przeszywanica</Cell></Row>
+<Row><Cell>ui_nm_sas_sklad_noh_X</Cell><Cell>Saxon composite chausses</Cell><Cell>Saksońskie bigwanty zbrojnikowe</Cell></Row>
+<Row><Cell>ui_nm_sas_sklad_noh_XX</Cell><Cell>Saxon composite chausses</Cell><Cell>Saksońskie bigwanty zbrojnikowe</Cell></Row>
+<Row><Cell>ui_nm_scarf_blue_X</Cell><Cell>Blue scarf</Cell><Cell>Niebieski kaptur</Cell></Row>
+<Row><Cell>ui_nm_shield_black_X</Cell><Cell>Black shield</Cell><Cell>Czarna tarcza</Cell></Row>
+<Row><Cell>ui_nm_shield_decorated_X</Cell><Cell>Shield decorated</Cell><Cell>Dekorowana tarcza</Cell></Row>
+<Row><Cell>ui_nm_shield_gothic_01_X</Cell><Cell>Shield with crest</Cell><Cell>Tarcza herbowa</Cell></Row>
+<Row><Cell>ui_nm_shield_gothic_01_XX</Cell><Cell>Shield with crest</Cell><Cell>Tarcza herbowa</Cell></Row>
+<Row><Cell>ui_nm_shield_gothic_01_XXX</Cell><Cell>Shield with crest</Cell><Cell>Tarcza herbowa</Cell></Row>
+<Row><Cell>ui_nm_shield_gothic_01_XXXX</Cell><Cell>Shield with crest</Cell><Cell>Tarcza herbowa</Cell></Row>
+<Row><Cell>ui_nm_shield_gothic_01_XXXXX</Cell><Cell>Shield with crest</Cell><Cell>Tarcza herbowa</Cell></Row>
+<Row><Cell>ui_nm_shield_gothic_01_XXXXXX</Cell><Cell>Shield with crest</Cell><Cell>Tarcza herbowa</Cell></Row>
+<Row><Cell>ui_nm_shield_gothic_01_XXXXXXX</Cell><Cell>Shield with crest</Cell><Cell>Tarcza herbowa</Cell></Row>
+<Row><Cell>ui_nm_shield_heavy_X</Cell><Cell>Heavy shield</Cell><Cell>Ciężka tarcza</Cell></Row>
+<Row><Cell>ui_nm_shield_heavy_XX</Cell><Cell>Heavy shield</Cell><Cell>Ciężka tarcza</Cell></Row>
+<Row><Cell>ui_nm_shield_heavy_XXX</Cell><Cell>Heavy shield</Cell><Cell>Ciężka tarcza</Cell></Row>
+<Row><Cell>ui_nm_shield_heavy_XXXX</Cell><Cell>Heavy shield</Cell><Cell>Ciężka tarcza</Cell></Row>
+<Row><Cell>ui_nm_shield_ordinary_X</Cell><Cell>Common shield</Cell><Cell>Zwykła tarcza</Cell></Row>
+<Row><Cell>ui_nm_shield_rataje_X</Cell><Cell>Lords of Leipa shield</Cell><Cell>Tarcza armii panów z Lipy</Cell></Row>
+<Row><Cell>ui_nm_shield_rataje_XX</Cell><Cell>Lords of Leipa shield</Cell><Cell>Tarcza armii panów z Lipy</Cell></Row>
+<Row><Cell>ui_nm_shield_round_metal_X</Cell><Cell>Cuman metal shield</Cell><Cell>Kumańska tarcza</Cell></Row>
+<Row><Cell>ui_nm_shield_round_metal_XX</Cell><Cell>Cuman metal shield</Cell><Cell>Kumańska tarcza</Cell></Row>
+<Row><Cell>ui_nm_shield_round_metal_XXX</Cell><Cell>Cuman metal shield</Cell><Cell>Kumańska tarcza</Cell></Row>
+<Row><Cell>ui_nm_shield_round_wooden_X</Cell><Cell>Cuman wooden shield</Cell><Cell>Kumańska drewniana tarcza</Cell></Row>
+<Row><Cell>ui_nm_shield_round_wooden_XX</Cell><Cell>Cuman wooden shield</Cell><Cell>Kumańska drewniana tarcza</Cell></Row>
+<Row><Cell>ui_nm_shield_sazava_X</Cell><Cell>Shield of Sasau garrison</Cell><Cell>Tarcza oddziałów z Sazawy</Cell></Row>
+<Row><Cell>ui_nm_shield_sazava_XX</Cell><Cell>Shield of Sasau garrison</Cell><Cell>Tarcza oddziałów z Sazawy</Cell></Row>
+<Row><Cell>ui_nm_shield_skalice_X</Cell><Cell>Radzig's garrison shield</Cell><Cell>Skalicka tarcza </Cell></Row>
+<Row><Cell>ui_nm_shield_skalice_XX</Cell><Cell>Radzig's garrison shield</Cell><Cell>Skalicka tarcza </Cell></Row>
+<Row><Cell>ui_nm_shield_talmberk_X</Cell><Cell>Shield with Talmberg crest</Cell><Cell>Tarcza z herbem Talmberka</Cell></Row>
+<Row><Cell>ui_nm_shield_talmberk_XX</Cell><Cell>Shield with Talmberg crest</Cell><Cell>Tarcza z herbem Talmberka</Cell></Row>
+<Row><Cell>ui_nm_shield_talmberk_XXX</Cell><Cell>Shield with Talmberg crest</Cell><Cell>Tarcza z herbem Talmberka</Cell></Row>
+<Row><Cell>ui_nm_shield_talmberk_XXXX</Cell><Cell>Shield with Talmberg crest</Cell><Cell>Tarcza z herbem Talmberka</Cell></Row>
+<Row><Cell>ui_nm_shield_tournament_X</Cell><Cell>Bouche shield</Cell><Cell>Tarcza kopijnicza</Cell></Row>
+<Row><Cell>ui_nm_shield_tournament_XX</Cell><Cell>Bouche shield</Cell><Cell>Tarcza kopijnicza</Cell></Row>
+<Row><Cell>ui_nm_shirt_X</Cell><Cell>Linen shirt</Cell><Cell>Lniana koszula</Cell></Row>
+<Row><Cell>ui_nm_shirt_XX</Cell><Cell>Linen shirt</Cell><Cell>Lniana koszula</Cell></Row>
+<Row><Cell>ui_nm_shirt_001_blue_X</Cell><Cell>Blue tunic</Cell><Cell>Niebieska tunika</Cell></Row>
+<Row><Cell>ui_nm_shirt_004_colorVar_A_X</Cell><Cell>Decorated shirt</Cell><Cell>Dekorowana koszula</Cell></Row>
+<Row><Cell>ui_nm_shirt_006_X</Cell><Cell>Fancy shirt</Cell><Cell>Odświętna koszula</Cell></Row>
+<Row><Cell>ui_nm_shirt_006_XX</Cell><Cell>Fancy shirt</Cell><Cell>Odświętna koszula</Cell></Row>
+<Row><Cell>ui_nm_shirt_006_XXX</Cell><Cell>Fancy shirt</Cell><Cell>Odświętna koszula</Cell></Row>
+<Row><Cell>ui_nm_shirt_1_X</Cell><Cell>Long linen shirt</Cell><Cell>Długa lniana koszulka</Cell></Row>
+<Row><Cell>ui_nm_shirt_from_stepanka_X</Cell><Cell>Shirt from Stephanie</Cell><Cell>Koszula od pani Szczepanki</Cell></Row>
+<Row><Cell>ui_nm_slap_nanos_X</Cell><Cell>Bascinet with bretache</Cell><Cell>Basinet z nosalem</Cell></Row>
+<Row><Cell>ui_nm_small_silver_chalice_X</Cell><Cell>Decorated silver goblet</Cell><Cell>Dekorowany srebrny kielich</Cell></Row>
+<Row><Cell>ui_nm_surcoat_001_talmberg_X</Cell><Cell>Long Talmberg waffenrock</Cell><Cell>Długi talmberski tabard</Cell></Row>
+<Row><Cell>ui_nm_surcoat_001_talmberg_XX</Cell><Cell>Long Talmberg waffenrock</Cell><Cell>Długi talmberski tabard</Cell></Row>
+<Row><Cell>ui_nm_surcoat_001_talmberg_XXX</Cell><Cell>Long Talmberg waffenrock</Cell><Cell>Długi talmberski tabard</Cell></Row>
+<Row><Cell>ui_nm_surcoat_Rataje_X</Cell><Cell>Long waffenrock Rattay</Cell><Cell>Długi ratajski tabard</Cell></Row>
+<Row><Cell>ui_nm_surcoat_Rataje_XX</Cell><Cell>Long waffenrock Rattay</Cell><Cell>Długi ratajski tabard</Cell></Row>
+<Row><Cell>ui_nm_surcotte_001_X</Cell><Cell>Working garment</Cell><Cell>Robocze odzienie</Cell></Row>
+<Row><Cell>ui_nm_surcotte_002_X</Cell><Cell>Upper cotte</Cell><Cell>Surkot</Cell></Row>
+<Row><Cell>ui_nm_surcotte_002_XX</Cell><Cell>Upper cotte</Cell><Cell>Surkot</Cell></Row>
+<Row><Cell>ui_nm_surcotte_002_XXX</Cell><Cell>Upper cotte</Cell><Cell>Surkot</Cell></Row>
+<Row><Cell>ui_nm_surcotte_002_XXXX</Cell><Cell>Upper cotte</Cell><Cell>Surkot</Cell></Row>
+<Row><Cell>ui_nm_surcotte_003_X</Cell><Cell>Simple cotte</Cell><Cell>Prosty surkot</Cell></Row>
+<Row><Cell>ui_nm_surcotte_003_XX</Cell><Cell>Simple cotte</Cell><Cell>Prosty surkot</Cell></Row>
+<Row><Cell>ui_nm_surcotte_003_XXX</Cell><Cell>Simple cotte</Cell><Cell>Prosty surkot</Cell></Row>
+<Row><Cell>ui_nm_surcotte_004_X</Cell><Cell>Decorated cotte</Cell><Cell>Dekoracyjny surkot</Cell></Row>
+<Row><Cell>ui_nm_surcotte_004_XX</Cell><Cell>Decorated cotte</Cell><Cell>Dekoracyjny surkot</Cell></Row>
+<Row><Cell>ui_nm_surcotte_004_XXX</Cell><Cell>Decorated cotte</Cell><Cell>Dekoracyjny surkot</Cell></Row>
+<Row><Cell>ui_nm_surcotte_004_XXXX</Cell><Cell>Decorated cotte</Cell><Cell>Dekoracyjny surkot</Cell></Row>
+<Row><Cell>ui_nm_surcotte_004_XXXXX</Cell><Cell>Decorated cotte</Cell><Cell>Dekoracyjny surkot</Cell></Row>
+<Row><Cell>ui_nm_surcotte_004_XXXXXX</Cell><Cell>Decorated cotte</Cell><Cell>Dekoracyjny surkot</Cell></Row>
+<Row><Cell>ui_nm_surcotte_005_X</Cell><Cell>Fashionable dress</Cell><Cell>Modny surkot</Cell></Row>
+<Row><Cell>ui_nm_talmberk_armory_chest_key_X</Cell><Cell>Equipment trunk key</Cell><Cell>Klucz do skrzyni z ekwipunkiem</Cell></Row>
+<Row><Cell>ui_nm_uher_hauberk_X</Cell><Cell>Hungarian hauberk</Cell><Cell>Węgierska kolczuga</Cell></Row>
+<Row><Cell>ui_nm_velky_slap_X</Cell><Cell>Grand bascinet</Cell><Cell>Wielki basinet</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_001_X</Cell><Cell>Red waffenrock</Cell><Cell>Czerwony tabard</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_002_X</Cell><Cell>Long dark waffenrock</Cell><Cell>Długi ciemny tabard</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_003_X</Cell><Cell>Oleshnitz waffenrock</Cell><Cell>Tabard z Olesznej</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_006_X</Cell><Cell>Waffenrock</Cell><Cell>Tabard</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_006_XX</Cell><Cell>Waffenrock</Cell><Cell>Tabard</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_006_XXX</Cell><Cell>Waffenrock</Cell><Cell>Tabard</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_006_XXXX</Cell><Cell>Waffenrock</Cell><Cell>Tabard</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_006_XXXXX</Cell><Cell>Waffenrock</Cell><Cell>Tabard</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_006_XXXXXX</Cell><Cell>Waffenrock</Cell><Cell>Tabard</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_006_XXXXXXX</Cell><Cell>Waffenrock</Cell><Cell>Tabard</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_006_XXXXXXXX</Cell><Cell>Waffenrock</Cell><Cell>Tabard</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_007_X</Cell><Cell>Red decorated waffenrock</Cell><Cell>Dekoracyjny czerwony tabard</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_011_X</Cell><Cell>Heraldic waffenrock</Cell><Cell>Heraldyczny tabard</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_013_X</Cell><Cell>Knight's waffenrock</Cell><Cell>Rycerski tabard</Cell></Row>
+<Row><Cell>ui_nm_waffenrock_015_X</Cell><Cell>Lords of Leipa waffenrock</Cell><Cell>Tabard z herbem szlachty z Lipy</Cell></Row>
+<Row><Cell>ui_nm_ChickenHeart</Cell><Cell>Chicken heart</Cell><Cell>Kurze serce</Cell></Row>
+<Row><Cell>ui_nm_ChickenHeart_cooked</Cell><Cell>Cooked chicken heart</Cell><Cell>Gotowane kurze serce</Cell></Row>
+<Row><Cell>ui_nm_keyringPtacek</Cell><Cell>Sir Hans Capon's keys</Cell><Cell>Klucze pana Jana Ptaszka</Cell></Row>
+<Row><Cell>ui_nm_bow_light</Cell><Cell>Very light bow</Cell><Cell>Bardzo lekki łuk</Cell></Row>
+<Row><Cell>ui_nm_pants_002</Cell><Cell>Braies</Cell><Cell>Gacie</Cell></Row>
+<Row><Cell>ui_nm_antisleep_potion_bundle</Cell><Cell>Pack of sleeping potions</Cell><Cell>Pakiet Eliksirów Nasennych</Cell></Row>
+<Row><Cell>ui_nm_sword1</Cell><Cell>Bastard sword</Cell><Cell>Miecz bastardowy</Cell></Row>
+<Row><Cell>ui_nm_sword1_X</Cell><Cell>Bastard sword</Cell><Cell>Miecz bastardowy</Cell></Row>
+<Row><Cell>ui_nm_sword1_XX</Cell><Cell>Bastard sword</Cell><Cell>Miecz bastardowy</Cell></Row>
+<Row><Cell>ui_nm_sword1_XXX</Cell><Cell>Bastard sword</Cell><Cell>Miecz bastardowy</Cell></Row>
+<Row><Cell>ui_nm_potion_diarrhoea</Cell><Cell>Diarrhoea potion</Cell><Cell>Eliksir Na Biegunkę</Cell></Row>
+<Row><Cell>ui_nm_cow_antidote_wrong</Cell><Cell>Cow antidote wrong</Cell><Cell>Złe krowie antidotum</Cell></Row>
+<Row><Cell>ui_nm_karolinas_scarf</Cell><Cell>Karolina's shawl</Cell><Cell>Szal Karoliny</Cell></Row>
+<Row><Cell>ui_nm_potion_dementia</Cell><Cell>Mind enfeeblement potion</Cell><Cell>Eliksir Zapomnienia</Cell></Row>
+<Row><Cell>ui_nm_live_chicken</Cell><Cell>Live chicken</Cell><Cell>Żywy kurczak</Cell></Row>
+<Row><Cell>ui_nm_live_chicken_X</Cell><Cell>Live chicken</Cell><Cell>Żywy kurczak</Cell></Row>
+<Row><Cell>ui_nm_dandelion_syrup</Cell><Cell>Syrup</Cell><Cell>Syrop</Cell></Row>
+<Row><Cell>ui_nm_potion_syrup</Cell><Cell>Dandelion syrup</Cell><Cell>Syrop z mniszka</Cell></Row>
+<Row><Cell>ui_nm_the_commonest_die_X</Cell><Cell>The commonest die</Cell><Cell>Najzwyklejsza kostka</Cell></Row>
+<Row><Cell>ui_nm_crystal_meth</Cell><Cell>Crystal meth</Cell><Cell>Met amfetamina</Cell></Row>
+<Row><Cell>ui_nm_flute</Cell><Cell>Flute</Cell><Cell>Flet</Cell></Row>
+<Row><Cell>ui_nm_potion_test_invincible</Cell><Cell>Test Potion: Invicible</Cell><Cell>Test: Niezwyciężony</Cell></Row>
+<Row><Cell>ui_nm_soup_test</Cell><Cell>test soup</Cell><Cell>Zupa </Cell></Row>
+<Row><Cell>ui_mn_unknown_key</Cell><Cell>Key</Cell><Cell>Klucz</Cell></Row>
+<Row><Cell>ui_mn_unknown_key_XX</Cell><Cell>Key</Cell><Cell>Klucz</Cell></Row>
+<Row><Cell>ui_mn_unknown_key_XXX</Cell><Cell>Key</Cell><Cell>Klucz</Cell></Row>
+<Row><Cell>ui_mn_unknown_key_X</Cell><Cell>Key</Cell><Cell>Klucz</Cell></Row>
+<Row><Cell>ui_nm_cow_antidote</Cell><Cell>Cow antidote</Cell><Cell>Krowie antidotum</Cell></Row>
+<Row><Cell>ui_nm_shoes</Cell><Cell>Shoes</Cell><Cell>Trzewiki</Cell></Row>
+<Row><Cell>ui_nm_shirt_002_green</Cell><Cell>Green shirt</Cell><Cell>Zielona koszula</Cell></Row>
+<Row><Cell>ui_nm_shirt_002_green_X</Cell><Cell>Green shirt</Cell><Cell>Zielona koszula</Cell></Row>
+<Row><Cell>ui_nm_shirt_002_green_XX</Cell><Cell>Green shirt</Cell><Cell>Zielona koszula</Cell></Row>
+<Row><Cell>ui_nm_shirt_002_green_XXX</Cell><Cell>Green shirt</Cell><Cell>Zielona koszula</Cell></Row>
+<Row><Cell>ui_nm_shirt_002_green_XXXX</Cell><Cell>Green shirt</Cell><Cell>Zielona koszula</Cell></Row>
+<Row><Cell>ui_mn_bandits_jacket</Cell><Cell>Bandit's cloak</Cell><Cell>Kubrak zbójnika</Cell></Row>
+<Row><Cell>ui_nm_pants_005_arrow</Cell><Cell>Tight hose</Cell><Cell>Wąskie nogawice</Cell></Row>
+<Row><Cell>ui_nm_pants_005_arrow_X</Cell><Cell>Tight hose</Cell><Cell>Wąskie nogawice</Cell></Row>
+<Row><Cell>ui_nm_pants_003</Cell><Cell>Black fashionable hose</Cell><Cell>Modne czarne nogawice</Cell></Row>
+<Row><Cell>ui_nm_pants_003_X</Cell><Cell>Black fashionable hose</Cell><Cell>Modne czarne nogawice</Cell></Row>
+<Row><Cell>ui_nm_pants_003_XX</Cell><Cell>Black fashionable hose</Cell><Cell>Modne czarne nogawice</Cell></Row>
+<Row><Cell>ui_nm_pants_003_XXX</Cell><Cell>Black fashionable hose</Cell><Cell>Modne czarne nogawice</Cell></Row>
+<Row><Cell>ui_nm_pants_003_XXXX</Cell><Cell>Black fashionable hose</Cell><Cell>Modne czarne nogawice</Cell></Row>
+<Row><Cell>ui_nm_deer_meat</Cell><Cell>Venison</Cell><Cell>Jelenina</Cell></Row>
+<Row><Cell>ui_mn_ear</Cell><Cell>Human ear</Cell><Cell>Ludzkie ucho</Cell></Row>
+<Row><Cell>ui_nm_shirt_001_X</Cell><Cell>Long linen shirt</Cell><Cell>Długa lniana koszula</Cell></Row>
+<Row><Cell>ui_nm_shirt_001_XX</Cell><Cell>Long linen shirt</Cell><Cell>Długa lniana koszula</Cell></Row>
+<Row><Cell>ui_nm_brigandine_001</Cell><Cell>Short-sleeved brigandine</Cell><Cell>Brygantyna z krótkim rękawem</Cell></Row>
+<Row><Cell>ui_nm_fakeName</Cell><Cell>Fake name</Cell><Cell>Fałszywe imię</Cell></Row>
+<Row><Cell>ui_nm_lamb_meat_X</Cell><Cell>Lamb</Cell><Cell>Jagnięcina</Cell></Row>
+<Row><Cell>ui_nm_cow_poison</Cell><Cell>Cow poison</Cell><Cell>Krowia trucizna</Cell></Row>
+<Row><Cell>ui_nm_test_buff_bandage</Cell><Cell>Buffed Bandage Test</Cell><Cell>Bandaż test</Cell></Row>
+<Row><Cell>ui_nm_wafer</Cell><Cell>Wafer</Cell><Cell>Komunia</Cell></Row>
+<Row><Cell>ui_nm_sack</Cell><Cell>Sack</Cell><Cell>Worek</Cell></Row>
+<Row><Cell>ui_nm_potion_tideness</Cell><Cell>Tiredness potion</Cell><Cell>Eliksir Na Zmęczenie</Cell></Row>
+<Row><Cell>ui_nm_drowned_sheep</Cell><Cell>Drowned sheep</Cell><Cell>Utopiona owca</Cell></Row>
+<Row><Cell>ui_mn_trebuchetstone</Cell><Cell>Trebuchet projectile rock</Cell><Cell>Kamień do trebusza</Cell></Row>
+<Row><Cell>ui_nm_avalon_steel</Cell><Cell>Foreign steel</Cell><Cell>Zagraniczna stal</Cell></Row>
+<Row><Cell>ui_nm_chest</Cell><Cell>Wooden Chest</Cell><Cell>Drewniana skrzynia</Cell></Row>
+<Row><Cell>ui_nm_letter_for_karolina</Cell><Cell>Letter for Karolina</Cell><Cell>List dla Karoliny</Cell></Row>
+<Row><Cell>ui_nm_hood_001_down</Cell><Cell>Brown hood</Cell><Cell>Brązowy kaptur</Cell></Row>
+<Row><Cell>ui_mn_necronomicon_part1</Cell><Cell>Necronomicon I</Cell><Cell>Necronomicon I</Cell></Row>
+<Row><Cell>ui_mn_necronomicon_part1_X</Cell><Cell>Necronomicon I</Cell><Cell>Necronomicon I</Cell></Row>
+<Row><Cell>ui_nm_stolen_item_mikes</Cell><Cell>Mikesh's package</Cell><Cell>Paczuszka Mikesza</Cell></Row>
+<Row><Cell>ui_nm_dress_for_karolina</Cell><Cell>Dress for Karolina</Cell><Cell>Suknia dla Karoliny</Cell></Row>
+<Row><Cell>ui_mn_debug_heavy</Cell><Cell>Very heavy hammer</Cell><Cell>Bardzo ciężki młot</Cell></Row>
+<Row><Cell>ui_nm_rich_brocade</Cell><Cell>Rich Brocade</Cell><Cell>Bogaty brokat</Cell></Row>
+<Row><Cell>ui_nm_keyring_X</Cell><Cell>Bandit's chest key</Cell><Cell>Klucze do skrzyni zbójnika</Cell></Row>
+<Row><Cell>ui_nm_keyring_XX</Cell><Cell>Bandit's chest key</Cell><Cell>Klucze do skrzyni zbójnika</Cell></Row>
+<Row><Cell>ui_nm_keyring_XXX</Cell><Cell>Bandit's chest key</Cell><Cell>Klucze do skrzyni zbójnika</Cell></Row>
+<Row><Cell>ui_nm_footwraps</Cell><Cell>Footwraps with leather sole</Cell><Cell>Onuce ze skórzaną podeszwą</Cell></Row>
+<Row><Cell>ui_nm_felt_hat_brown</Cell><Cell>Felt hat, brown</Cell><Cell>Brązowy pilśniowy kapelusz</Cell></Row>
+<Row><Cell>ui_nm_jacket_001_X</Cell><Cell>Brown quilted jacket</Cell><Cell>Brązowy pourpoint</Cell></Row>
+<Row><Cell>ui_nm_zdenas_scarf</Cell><Cell>Zdena's scarf</Cell><Cell>Szal Zeni</Cell></Row>
+<Row><Cell>ui_nm_ointmentForMarta</Cell><Cell></Cell><Cell></Cell></Row>
+<Row><Cell>ui_nm_scroll</Cell><Cell>Seal</Cell><Cell>Pieczęć</Cell></Row>
+<Row><Cell>ui_nm_scroll_X</Cell><Cell>Seal</Cell><Cell>Pieczęć</Cell></Row>
+<Row><Cell>ui_nm_stolen_item_vojmir</Cell><Cell>Vojmir's package</Cell><Cell>Paczka Wojmira</Cell></Row>
+<Row><Cell>ui_nm_hammer_quest</Cell><Cell>Signed hammer</Cell><Cell>Sygnowany Młot</Cell></Row>
+<Row><Cell>ui_mn_monstrance</Cell><Cell>Monstrance</Cell><Cell>Monstrancja</Cell></Row>
+<Row><Cell>ui_nm_hare_tail_q</Cell><Cell>Hare tail</Cell><Cell>Zajęczy ogon</Cell></Row>
+<Row><Cell>ui_nm_coffee</Cell><Cell>Coffee</Cell><Cell>Kawa</Cell></Row>
+<Row><Cell>ui_nm_potion_oblivion</Cell><Cell>Oblivion potion</Cell><Cell>Eliksir Zapomnienia</Cell></Row>
+<Row><Cell>ui_nm_bun</Cell><Cell>Pastry</Cell><Cell>Wypieki</Cell></Row>
+<Row><Cell>ui_nm_magic_PI_mushroom</Cell><Cell>Magic PI - mushroom</Cell><Cell>Magiczne grzybki</Cell></Row>
+<Row><Cell>ui_nm_potion_test_stamina_fr</Cell><Cell>Test Potion: Stamina Frenzy</Cell><Cell>Test</Cell></Row>
+<Row><Cell>ui_nm_wrongDice</Cell><Cell>Playing die</Cell><Cell>Kostka do gry</Cell></Row>
+<Row><Cell>ui_mn_copper_ingot</Cell><Cell>Copper ingot</Cell><Cell>Sztabka miedzi</Cell></Row>
+<Row><Cell>ui_nm_vojtechs_necklace</Cell><Cell>Woyzeck's family pendant</Cell><Cell>Rodzinny wisiorek Wojciecha</Cell></Row>
+<Row><Cell>ui_nm_signetLany</Cell><Cell>Seal of the Lany Lords</Cell><Cell>Pieczęć szlachty z Łan</Cell></Row>
+<Row><Cell>ui_nm_charlatan_tunic_X</Cell><Cell>Charlatan's tunic</Cell><Cell>Tunika Szarlatana</Cell></Row>
+<Row><Cell>ui_nm_raubritter_livrej</Cell><Cell>Some piece of cloth</Cell><Cell>Odzienie</Cell></Row>
+<Row><Cell>ui_nm_scarf_over_eyes</Cell><Cell>Some piece of cloth</Cell><Cell>Kawałek tkaniny</Cell></Row>
+<Row><Cell>ui_nm_sword_short_wooden_X</Cell><Cell>Wooden training sword</Cell><Cell>Drewniany miecz treningowy</Cell></Row>
+<Row><Cell>ui_nm_underskirt_001</Cell><Cell>Undershirt</Cell><Cell>Podkoszulek</Cell></Row>
+<Row><Cell>ui_nm_some_cloth</Cell><Cell>Some garment</Cell><Cell>Część odzieży</Cell></Row>
+<Row><Cell>ui_nm_some_cloth_X</Cell><Cell>Some garment</Cell><Cell>Część odzieży</Cell></Row>
+<Row><Cell>ui_nm_some_cloth_XX</Cell><Cell>Some garment</Cell><Cell>Część odzieży</Cell></Row>
+<Row><Cell>ui_nm_some_cloth_XXX</Cell><Cell>Some garment</Cell><Cell>Część odzieży</Cell></Row>
+<Row><Cell>ui_nm_some_cloth_XXXX</Cell><Cell>Some garment</Cell><Cell>Część odzieży</Cell></Row>
+<Row><Cell>ui_nm_some_cloth_XXXXX</Cell><Cell>Some garment</Cell><Cell>Część odzieży</Cell></Row>
+<Row><Cell>ui_nm_some_cloth_XXXXXX</Cell><Cell>Some garment</Cell><Cell>Część odzieży</Cell></Row>
+<Row><Cell>ui_nm_some_cloth_XXXXXXX</Cell><Cell>Some garment</Cell><Cell>Część odzieży</Cell></Row>
+<Row><Cell>ui_nm_test_viceslotovy_12</Cell><Cell>Multi slot test</Cell><Cell>Multi slot test</Cell></Row>
+<Row><Cell>ui_nm_devil</Cell><Cell>Devil's suit</Cell><Cell>Strój diabła</Cell></Row>
+<Row><Cell>ui_nm_devil_X</Cell><Cell>Devil's suit</Cell><Cell>Strój diabła</Cell></Row>
+<Row><Cell>ui_nm_devil_XX</Cell><Cell>Devil's suit</Cell><Cell>Strój diabła</Cell></Row>
+<Row><Cell>ui_nm_devil_XXX</Cell><Cell>Devil's suit</Cell><Cell>Strój diabła</Cell></Row>
+<Row><Cell>ui_nm_test_viceslotovy2</Cell><Cell>Multi slot test 2</Cell><Cell>Multi slot test 2</Cell></Row>
+<Row><Cell>ui_nm_test_viceslotovy2_X</Cell><Cell>Multi slot test 2</Cell><Cell>Multi slot test 2</Cell></Row>
+<Row><Cell>ui_nm_test_viceslotovy_renamed</Cell><Cell>Multi slot test renamed</Cell><Cell>Multi slot test renamed</Cell></Row>
+<Row><Cell>ui_nm_ring_test</Cell><Cell>Ring</Cell><Cell>Pierścień</Cell></Row>
+<Row><Cell>ui_nm_ring_test_X</Cell><Cell>Ring</Cell><Cell>Pierścień</Cell></Row>
+<Row><Cell>ui_nm_ring_test_XX</Cell><Cell>Ring</Cell><Cell>Pierścień</Cell></Row>
+<Row><Cell>ui_nm_potion_deadly_poison</Cell><Cell>Strong poison</Cell><Cell>Silna trucizna</Cell></Row>
+<Row><Cell>ui_nm_the_least_common_die</Cell><Cell>The least common die</Cell><Cell>Najzacniejsza kostka</Cell></Row>
+<Row><Cell>ui_nm_the_not_common_die</Cell><Cell>The uncommon die</Cell><Cell>Niezwykła kostka</Cell></Row>
+<Row><Cell>ui_nm_test_antiStealthBoots</Cell><Cell>Test AntiStealth Boots</Cell><Cell>Test AntiStealth Boots</Cell></Row>
+<Row><Cell>ui_nm_test_antiStealthBoots_X</Cell><Cell>Test AntiStealth Boots</Cell><Cell>Test AntiStealth Boots</Cell></Row>
+<Row><Cell>ui_nm_test_boots</Cell><Cell>Servant's boots.</Cell><Cell>Buty pachołka</Cell></Row>
+<Row><Cell>ui_nm_test_antiStealthPants</Cell><Cell>Test AntiStealth Pants</Cell><Cell>test</Cell></Row>
+<Row><Cell>ui_nm_test_antiStealthPants_X</Cell><Cell>Test AntiStealth Pants</Cell><Cell>test</Cell></Row>
+<Row><Cell>ui_nm_test_pants</Cell><Cell>Servant hose</Cell><Cell>Spodnie pachołka</Cell></Row>
+<Row><Cell>ui_nm_test_antiStealthShirt</Cell><Cell>Test AntiStealth Shirt</Cell><Cell>Test AntiStealth Shirt</Cell></Row>
+<Row><Cell>ui_nm_test_antiStealthShirt_X</Cell><Cell>Test AntiStealth Shirt</Cell><Cell>Test AntiStealth Shirt</Cell></Row>
+<Row><Cell>ui_nm_test_shirt</Cell><Cell>Servant's shirt</Cell><Cell>Koszula pachołka.</Cell></Row>
+<Row><Cell>ui_nm_test</Cell><Cell>Test sabre</Cell><Cell>Test szabla</Cell></Row>
+<Row><Cell>ui_nm_test_X</Cell><Cell>Test sabre</Cell><Cell>Test szabla</Cell></Row>
+<Row><Cell>ui_nm_test_XX</Cell><Cell>Test sabre</Cell><Cell>Test szabla</Cell></Row>
+<Row><Cell>ui_nm_test_cap</Cell><Cell>Servant Cap</Cell><Cell>Czapka sługi</Cell></Row>
+<Row><Cell>ui_mn_debugreward</Cell><Cell>Excellent Reward</Cell><Cell>Doskonała nagroda</Cell></Row>
+<Row><Cell>ui_nm_divisLetter</Cell><Cell>Letters for Sir Divish</Cell><Cell>Listy do pana Dziwisza</Cell></Row>
+<Row><Cell>ui_nm_weapon_test2</Cell><Cell>Test Weapon 2</Cell><Cell>test</Cell></Row>
+<Row><Cell>ui_nm_weapontest2</Cell><Cell>Test Weapon 3</Cell><Cell>test</Cell></Row>
+
+<!-- TRANSLATION NEEDED -->
+<!-- Woefully Incomplete Items (These are some test items you usually don't see in the game) -->
+<Row><Cell>ui_nm_test_ondra_fifty</Cell><Cell>Ondra's Purse</Cell><Cell>Ondra's Purse</Cell></Row>
+<Row><Cell>ui_nm_test_01</Cell><Cell>Boots</Cell><Cell>Boots</Cell></Row>
+<Row><Cell>ui_nm_test_02</Cell><Cell>Horse Caparison</Cell><Cell>Horse Caparison</Cell></Row>
+<Row><Cell>ui_nm_test_03</Cell><Cell>Spear</Cell><Cell>Spear</Cell></Row>
+<Row><Cell>ui_nm_test_04</Cell><Cell>Unequipable clothing/armor</Cell><Cell>Unequipable clothing/armor</Cell></Row>
+<Row><Cell>ui_nm_test_05</Cell><Cell>Quest Item</Cell><Cell>Quest Item</Cell></Row>
+<Row><Cell>ui_nm_test_06</Cell><Cell>Axe</Cell><Cell>Axe</Cell></Row>
+<Row><Cell>ui_nm_test_07</Cell><Cell>Quest Item</Cell><Cell>Quest Item</Cell></Row>
+<Row><Cell>ui_nm_test_08</Cell><Cell>Pot</Cell><Cell>Pot</Cell></Row>
+<Row><Cell>ui_nm_test_09</Cell><Cell>Quest Item</Cell><Cell>Quest Item</Cell></Row>
+<Row><Cell>ui_nm_test_10</Cell><Cell>Strong Alcohol</Cell><Cell>Strong Alcohol</Cell></Row>
+<Row><Cell>ui_nm_test_11</Cell><Cell>Alcohol</Cell><Cell>Alcohol</Cell></Row>
+<Row><Cell>ui_nm_test_12</Cell><Cell>Alcohol</Cell><Cell>Alcohol</Cell></Row>
+<Row><Cell>ui_nm_test_13</Cell><Cell>Weak Alcohol</Cell><Cell>Weak Alcohol</Cell></Row>
+<Row><Cell>ui_nm_test_14</Cell><Cell>Meat</Cell><Cell>Meat</Cell></Row>
+<!-- Black Items Mod -->
+<Row><Cell>ui_nm_jacket_002_racek</Cell><Cell>Red pourpoint</Cell><Cell>Red pourpoint</Cell></Row>
+<Row><Cell>ui_nm_jacket_003_racek</Cell><Cell>Blue pourpoint</Cell><Cell>Blue pourpoint</Cell></Row>
+<Row><Cell>ui_nm_hood_grey</Cell><Cell>Grey hood</Cell><Cell>Grey hood</Cell></Row>
+<Row><Cell>ui_nm_hood_blue_blue</Cell><Cell>Blue hood</Cell><Cell>Blue hood</Cell></Row>
+<Row><Cell>ui_nm_pros_kukla_black</Cell><Cell>Black Padded coif</Cell><Cell>Black Padded coif</Cell></Row>
+</Table>
