@@ -13,23 +13,37 @@ W repozytorium znajduje się plik `text__ARealSortedInventory[1].xml`, zawieraj�
 Część nazw unikatowych przedmiotów jest już po polsku, ale nagłówki kategorii pozostają po angielsku,
 a w pliku wskazano też pozycje wymagające tłumaczenia. **Przekład jest nieukończony.**
 
-## Spójność z polską lokalizacją gry
+## Spójność i kontekst tłumaczeń
 
-Nazwy konkretnych przedmiotów należy porównywać z polską lokalizacją *Kingdom Come: Deliverance*.
-Jeśli przedmiot ma już ustaloną nazwę w grze, używaj jej konsekwentnie zamiast tworzyć nowy wariant.
-Dla kategorii dodanych przez ARSI, które nie mają odpowiednika w grze,
-przyjmij spójne polskie nazewnictwo i stosuj je w całym tłumaczeniu.
+W tabeli moda `player_item__ARealSortedInventory.xml` każde z 425 unikatowych pól `ui_name`
+wskazuje klucz nazwy wyświetlanej przy konkretnym przedmiocie. Wszystkie te klucze występują
+w pliku lokalizacyjnym ARSI. To znaczy, że wpisy z nazwami przedmiotów nie są tylko opisowymi
+przykładami — są tekstami używanymi przez mod przy sortowaniu ekwipunku.
 
-Wstępne porównanie z polskim plikiem gry `Localization/Polish_xml.pak` → `text_ui_items.xml` wykonano w trybie tylko do odczytu.
-Spośród 498 wierszy szablonu 348 ma angielski tekst źródłowy występujący również w tej tabeli;
-dla 339 z nich znaleziono jednoznaczny polski odpowiednik. Obecne tłumaczenie zgadza się z nim
-(po pominięciu białych znaków na początku i końcu) w 319 przypadkach. W pozostałych 20 przypadkach
-12 dotyczy nazw kategorii ARSI, a 8 nazw przedmiotów — te wpisy wymagają ręcznego sprawdzenia.
+Porównanie z 11 tabelami XML w `Localization/Polish_xml.pak` gry wykonano w trybie tylko do odczytu.
+88 z 425 kluczy przedmiotów występuje w grze pod tym samym kluczem; wszystkie 88 obecnych polskich
+wpisów w szablonie zgadza się z lokalizacją gry po pominięciu białych znaków na początku i końcu.
+Dodatkowo, przy dopasowaniu po identycznym angielskim tekście źródłowym, 338 nazw ma odpowiednik
+w tych tabelach; 322 z nich mają jednoznaczny polski wariant, a 316 obecnych tłumaczeń zgadza się
+z tym wariantem. Sześć rozbieżnych kluczy to `ui_nm_jacket_002_racek`, `ui_nm_jacket_003_racek`,
+`ui_nm_hood_grey`, `ui_nm_hood_blue_blue`, `ui_nm_arrow_testing_X` i `ui_nm_test_03` — sprawdź je
+ręcznie przed zmianą. Dla 16 dopasowanych nazw istnieje więcej niż jeden polski wariant, a 87 nazw
+nie ma dokładnego dopasowania w tabelach gry; te przypadki wymagają sprawdzenia kontekstu lub
+lokalizacji źródłowego moda.
 
-To dopasowanie po tekście źródłowym jest wskazówką, nie pełnym audytem wszystkich plików gry ani gwarancją,
-że każde wystąpienie ma ten sam kontekst. Główny pakiet ARSI nie znajduje się w repozytorium,
-więc znaczenie kategorii dodanych przez mod wymaga jeszcze weryfikacji. Przy pracy nad XML-em zachowuj
-klucze i teksty źródłowe, a zmieniaj wyłącznie pola tłumaczenia.
+Klucze `ui_arsi_*` oznaczają natomiast nagłówki kategorii sortowania ARSI, a nie nazwy przedmiotów.
+Główny mod udostępnia ustawienia widoczności tych etykiet, więc tłumacz je jako krótkie, spójne nazwy
+kategorii.
+
+### Różnice względem ARSI 1.3.3.1
+
+W pliku lokalizacyjnym głównego moda jest 496 aktywnych wierszy; wszystkie ich klucze znajdują się
+w tym szablonie, który ma łącznie 498 wierszy. Dodatkowe `ui_arsi_weapons_dagger` i
+`ui_arsi_weapons_torch` są zakomentowane w pliku głównego moda. Jest też jedna różnica w tekście
+źródłowym: dla `ui_arsi_misc_skin` główny mod ma `Skins`, a szablon `Skins & Hides`.
+Sprawdź te różnice przed przygotowaniem wydania tłumaczenia.
+
+Przy edycji zachowuj klucze i teksty źródłowe, a zmieniaj wyłącznie pola tłumaczenia.
 
 ## Wymagania i wersje
 
