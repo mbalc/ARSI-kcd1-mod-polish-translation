@@ -33,6 +33,12 @@
 
 **Ograniczenia:** problem mieszanych nazw został zgłoszony przez autora, ale nie odtworzony przez AI w grze. Nie wykonano testów runtime ani nie potwierdzono instalacji, zgodności wszystkich wersji lub licencji. Archiwum moda i pliki gry czytano bez modyfikowania ich; nie kopiowano ich do repozytorium. Tłumaczenie XML nie było edytowane przez AI.
 
+### 2026-11-16 — automatyczne zawijanie Markdown
+
+**Decyzja mbalc:** formatować pliki Markdown automatycznie przy zapisie, z szerokością 120 znaków; wybrano Prettier.
+
+**Praca AI:** dodano konfigurację Prettier oraz ustawienia i rekomendację rozszerzenia dla Visual Studio Code. Konfiguracja obejmuje pliki Markdown. Nie zweryfikowano jej w edytorze z zainstalowanym rozszerzeniem.
+
 ## Źródła i atrybucje do potwierdzenia
 
 - Główny mod i jego zasoby należą do ich autorów; [strona ARSI na Nexus Mods](https://www.nexusmods.com/kingdomcomedeliverance/mods/2204) jest punktem odniesienia. Pełne wymagane brzmienie kredytów i warunki dystrybucji trzeba potwierdzić przed publikacją.
