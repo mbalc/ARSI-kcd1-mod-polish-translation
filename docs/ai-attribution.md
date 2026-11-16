@@ -8,6 +8,7 @@
 - **Autor projektu i polskiego przekładu:** mbalc, zgodnie z deklaracją autora.
 - **Decyzje o zakresie:** mbalc. Projekt ma rozwiązać zgłoszony przez autora problem angielskich nazw pojawiających się wśród polskich nazw przedmiotów podczas korzystania z ARSI bez polskiego tłumaczenia.
 - **Zakres pierwszego PR:** inicjalizacja projektu obejmująca dotychczasowe pliki i dokumentację. Raport zgodności oraz rejestr użycia AI są osobnymi dokumentami, do których README prowadzi odnośnikami.
+- **Tekst README:** mbalc samodzielnie zredagował wprowadzenie i opis problemu w edytorze; te zmiany zachowano jako tekst autora.
 - **Pomoc AI:** GitHub Copilot wykorzystano do odczytania i porównania plików lokalizacji oraz do przygotowania dokumentacji. AI nie zmieniało komórek tłumaczenia w `text__ARealSortedInventory[1].xml`.
 - **Odpowiedzialność za tłumaczenie i wydanie:** wybór ostatecznych polskich nazw, ich zatwierdzenie, testy w grze i publikacja należą do mbalc. Wyniki porównania AI są wskazówkami do weryfikacji, nie zatwierdzonymi automatycznie poprawkami.
 

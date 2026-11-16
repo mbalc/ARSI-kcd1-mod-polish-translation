@@ -1,11 +1,13 @@
 # Polskie tłumaczenie A Real Sorted Inventory
 
-Nieoficjalne polskie tłumaczenie tekstów moda [**A Real Sorted Inventory (ARSI)**](https://www.nexusmods.com/kingdomcomedeliverance/mods/2204)
-do gry *Kingdom Come: Deliverance*. Autorem projektu i polskiego przekładu jest **mbalc**.
+Nieoficjalne (jeszcze :v) polskie tłumaczenie tekstów moda [**A Real Sorted Inventory (ARSI)**](https://www.nexusmods.com/kingdomcomedeliverance/mods/2204)
+do gry *Kingdom Come: Deliverance*.
+
+Autorem projektu i polskiego przekładu jest **mbalc**.
 
 ## Cel projektu
 
-Autor zgłasza, że przy korzystaniu z ARSI bez polskiego tłumaczenia niektóre nazwy przedmiotów pojawiają się po angielsku
+Przy korzystaniu z ARSI wraz z polską wersją gry - niektóre nazwy przedmiotów pojawiają się po angielsku
 wśród nazw polskich, przez co nazewnictwo w ekwipunku staje się niespójne. Celem projektu jest przełożenie tekstów z szablonu
 ARSI i zachowanie polskich nazw używanych już w grze tam, gdzie można potwierdzić ich odpowiednik. Tłumaczenie nie ma
 zmieniać mechaniki sortowania.
